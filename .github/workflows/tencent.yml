@@ -15,7 +15,7 @@
 
 name: Tencent Kubernetes Engine
 
-on: 23
+on: flashlight
   push:
     branches: [ "main" ]
 
